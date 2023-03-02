@@ -1,0 +1,9 @@
+=> {[31m[1;31m"[0m[31mindex[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31macid-arrow[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mAcid Arrow[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31mdesc[1;31m"[0m[31m[0m=>
+  [[31m[1;31m"[0m[31mA shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.[1;31m"[0m[31m[0m],
+ [31m[1;31m"[0m[31mhigher_level[1;31m"[0m[31m[0m=>
+  [[31m[1;31m"[0m[31mWhen you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.[1;31m"[0m[31m[0m],
+ [31m[1;31m"[0m[31mrange[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31m90 feet[1;31m"[0m[31m[0m,
+ [31m[1;31m"[0m[31mcomponents[1;31m"[0m[31m[0m=>[[31m[1;31m"[0m[31mV[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mS[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31mM[1;31m"[0m[31m[0m],
+ 
